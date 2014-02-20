@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var time = require('approximate-time');
+var time = require('yields-approximate-time');
 
 /**
  * Convert the given `Date` to a human readable string.

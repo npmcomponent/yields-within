@@ -1,0 +1,18 @@
+{
+  "name": "yields-within",
+  "description": "`Date(now + 1e3) => \"in a second\"`",
+  "version": "0.0.1",
+  "keywords": [
+    "in",
+    "ago",
+    "time",
+    "conversion"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-approximate-time": "git://github.com/npmcomponent/yields-approximate-time.git",
+    "visionmedia-mocha": "git://github.com/npmcomponent/visionmedia-mocha.git",
+    "component-assert": "git://github.com/npmcomponent/component-assert.git"
+  },
+  "license": "MIT"
+}
